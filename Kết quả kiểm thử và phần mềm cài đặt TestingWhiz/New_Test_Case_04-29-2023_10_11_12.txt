@@ -1,0 +1,1 @@
+Step#1 : 04-29-2023 10:11:12.496 [INFO] Selected Browser was not available (at all or higher version found)

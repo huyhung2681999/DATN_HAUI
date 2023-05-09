@@ -1,0 +1,77 @@
+2023-04-29 10:43:44 Application [INFO] Setting up env:PROD for licensor URL:https://usercentral.testing-whiz.com/licensor/api/
+2023-04-29 10:43:44 b [INFO] Started Updating Driver.
+2023-04-29 10:43:45 Application [INFO] BACKUP VALUE : false
+2023-04-29 10:43:45 Application [INFO] App args : [;if u want to share testing whiz configuration then change -data @user.home/.whiz to your desired path, ;eg. -data c:/software/TestingWhiz Data, D:\TestingWhiz\Test lan 2.twizx]
+2023-04-29 10:43:45 Application [INFO] JVM Info : Java 11.0.11 64 (Oracle Corporation)
+Windows 10 10.0 (amd64)
+2023-04-29 10:43:46 e [INFO] Check Java Output: , Check Java Error: java version "11.0.11" 2021-04-20 LTSJava(TM) SE Runtime Environment 18.9 (build 11.0.11+9-LTS-194)Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.11+9-LTS-194, mixed mode)
+2023-04-29 10:43:46 e [INFO] Installed java version:11.0.11
+2023-04-29 10:43:46 g [DEBUG] CheckPythonOutput: 
+CheckPythonError: Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2023-04-29 10:43:47 Application [INFO] APPLICATION ENV IS:ENV.PROD 
+2023-04-29 10:43:47 ag [INFO] BUNDLE FILE :: C:\TestingWhiz\plugins\com.cygnet.autotest.gui_8.1.1\OSGI-INF\l10n\bundle.properties
+2023-04-29 10:44:00 C [DEBUG] License file exists..true
+2023-04-29 10:44:00 C [INFO] License's ENV Property : PROD
+2023-04-29 10:44:00 C [DEBUG] Check license validity..
+2023-04-29 10:44:03 M [INFO] Response from server :: {"code":200,"message":"Current Date","data":"2023-04-29","fieldErrors":null}
+
+2023-04-29 10:44:04 C [INFO] Current Date on Server is: 2023-04-29
+2023-04-29 10:44:05 y [INFO] Initialization of hibernate session factory started.
+2023-04-29 10:44:05 CommonUtils [INFO] Session recording for env:PROD
+2023-04-29 10:44:05 SessionTrackingService [INFO] Session event occured:true, licensor app:https://usercentral.testing-whiz.com/licensor/api
+2023-04-29 10:44:08 SessionTrackingService [INFO] Synced session information:{"createdOn":1682739846461,"modifiedOn":1682739846461,"id":16133,"sessionId":"1682739845620","startedOn":1682739846461,"endedOn":1682739846461,"totalMilliSeconds":0}
+2023-04-29 10:44:08 SessionTrackingService [INFO] Session information update completed.
+2023-04-29 10:44:11 IconDecorator [INFO] Initialized the class IconDecorator
+2023-04-29 10:44:12 c [INFO] Start Scheduler
+2023-04-29 10:44:13 RecordingRuleManager [INFO] Root element :events
+2023-04-29 10:44:13 RecordingRuleManager [INFO] eventNodeList length: 4
+2023-04-29 10:44:13 RecordingRuleManager [INFO] tagNodeList length: 8
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding area for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding a for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding img for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:reset for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:checkbox for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:image for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:file for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:radio for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:button for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:submit for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding label for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding div for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding button:submit for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding span for event CLICK
+2023-04-29 10:44:13 RecordingRuleManager [INFO] tagNodeList length: 2
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:text for event KEYPRESS
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding textarea for event KEYPRESS
+2023-04-29 10:44:13 RecordingRuleManager [INFO] tagNodeList length: 2
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding input:text for event TYPE
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding textarea for event TYPE
+2023-04-29 10:44:13 RecordingRuleManager [INFO] tagNodeList length: 1
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Adding select:select-one for event SELECT
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Recoding rules map : {KEYPRESS=[input:text, textarea], TYPE=[input:text, textarea], CLICK=[area, a, img, input:reset, label, div, button:submit, input:checkbox, input:image, input:file, input:radio, input:button, input:submit, span], SELECT=[select:select-one]}
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for KEYPRESS and tag input:text
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for KEYPRESS and tag textarea
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for TYPE and tag input:text
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for TYPE and tag textarea
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag area
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag a
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag img
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag input:reset
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag label
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag div
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag button:submit
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag input:checkbox
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag input:image
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag input:file
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag input:radio
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag input:button
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag input:submit
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for CLICK and tag span
+2023-04-29 10:44:13 RecordingRuleManager [DEBUG] Creating rule for SELECT and tag select:select-one
+2023-04-29 10:44:21 AnalyticalDataScheduler [INFO] Analytical job scheduled successfully.
+2023-04-29 10:44:21 TwProjectJob [DEBUG] Running a TwProjectJob...
+2023-04-29 10:45:05 b [INFO] Driver update Successfully.
+2023-04-29 10:45:13 C [DEBUG] Checking license active for 3200365380119313 with signal BEGIN
+2023-04-29 10:45:15 M [INFO] Response from server :: {"code":200,"message":"true","data":null,"fieldErrors":null}
+
+2023-04-29 10:45:15 C [DEBUG] Got server response for license active: true

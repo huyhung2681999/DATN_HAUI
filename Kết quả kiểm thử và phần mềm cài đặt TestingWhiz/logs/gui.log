@@ -1,0 +1,8 @@
+2023-04-29 10:43:44 LogManager [DEBUG] Publishing log for user - 04-29-2023 10:43:43.720 [INFO] Driver is getting updated.
+2023-04-29 10:44:09 LogManager [DEBUG] Newly Subscribed - com.cygnet.autotest.gui.view.SuiteView@2c0dca15
+2023-04-29 10:44:12 LogManager [DEBUG] Newly Subscribed - com.cygnet.autotest.gui.d.b@131d977f
+2023-04-29 10:44:18 QuickThread [INFO] Executing Task with Timeout 3000: Refreshing Table into StepView
+2023-04-29 10:44:18 QuickThread [INFO] Executing Task with Timeout 3000: Evaluting Undo & Redo
+2023-04-29 10:44:18 QuickThread [INFO] Executing Task with Timeout 3000: Populating Tree for Suite View
+2023-04-29 10:44:18 QuickThread [INFO] Executing Task with Timeout 3000: Reseting Data & View in OperationsView
+2023-04-29 10:44:21 LogManager [DEBUG] Newly Subscribed - com.cygnet.autotest.gui.l.i@41492479
